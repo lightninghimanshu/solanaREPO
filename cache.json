@@ -1,0 +1,17 @@
+{
+  "program": {
+    "candyMachine": "7KaWtAzJpMw2JXvdVVxTsVaPZnLcsZ1vVgyWFXMi1FD6",
+    "candyMachineCreator": "2ZaptokABLejKRh9nAK33SRkDhDJj4LA1rc1nLkv5TNK",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "NEW NFT",
+      "image_hash": "7fd8733d361ad7a4421a118de728495af5e5b88a4161e9dde67e31ade9270853",
+      "image_link": "https://arweave.net/msaLmnWdSY7VvJ6rruGhAZY64-O42MZINOa7iwxFLFE?ext=png",
+      "metadata_hash": "8d1780df148e3634a5451a67127fcfc979cc027ecf8dbbebdf6d89972e1f41f8",
+      "metadata_link": "https://arweave.net/EOpPmVXXHmFLJ0_el0tcDXrIGig866qdKc2D5fPB2Sc",
+      "onChain": true
+    }
+  }
+}
